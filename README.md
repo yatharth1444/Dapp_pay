@@ -86,7 +86,7 @@ That's it. The AI remembers context and executes everything on-chain.
 ```bash
 # Clone & install
 git clone https://github.com/daltonic/dappPay.git
-cd dappPay
+cd Dapp_pay
 
 # Install frontend deps
 npm install
@@ -142,14 +142,10 @@ Full privacy policy: `app/privacy/page.tsx`
 
 ## Contributing
 
-PRs welcome! Especially:
-- Better error messages from the AI
-- Mobile UX polish
-- Additional natural-language examples
+PRs welcome! 
+## License 
+Yatharth
 
-## License
-
-MIT © 2025 Darlingtons Gospel
 
 ---
 
